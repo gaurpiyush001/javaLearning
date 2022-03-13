@@ -1,6 +1,15 @@
 https://techvidvan.com/tutorials/abstraction-in-java/#:~:text=In%20Java%2C%20Data%20Abstraction%20is,of%20communicating%20with%20other%20objects).
+
+/////////////////////////////////////////////////////////////////////////////
 Important Points
 1.)In Java, only classes or methods can be declared as abstract, we can not declare a variable as abstract.
 2.)We use the keyword abstract to declare both class and method as abstract.
 3.)If we declare any method as abstract, the class automatically needs to become an abstract class.
 4.)An abstract class can have a constructor.
+
+////////////////////////////////////////////////////////////////////////////
+#Data Encapsulation vs Data Abstraction in Java
+1.Encapsulation is one step beyond abstraction.
+2.Data Encapsulation is hiding data or information while Abstraction is hiding the implementation details.
+3.Encapsulation binds the data members and methods together while data abstraction deals with showing the external details of an entity to the user and hiding the details of its implementation.
+4.Abstraction provides access to a specific part of data while encapsulation hides the data.
